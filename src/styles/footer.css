@@ -1,9 +1,9 @@
 .Footer{
-    height: 30px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px 10px;
+    padding: 0 10px;
     font-size: .8em;
     font-weight: 500;
     background-color: #F9A03F;

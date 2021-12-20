@@ -11,7 +11,7 @@ function Header (props){
             Spend Money
 
             <div className="Bars">
-                <i class="fas fa-bars"></i>
+                <i className="fas fa-bars"></i>
             </div>
         </div>
     )
