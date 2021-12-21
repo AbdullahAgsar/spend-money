@@ -1,6 +1,7 @@
 .Content{
     padding: 30px 20px;
-    min-height: calc(100vh - 140px);
+    height: calc(100vh - 140px);
+    overflow-y: auto;
 }
 
 .Content > div:nth-child(2){
